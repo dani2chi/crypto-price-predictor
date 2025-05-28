@@ -8,7 +8,7 @@ ALPHA_VANTAGE_URL = "https://www.alphavantage.co/query"
 ALPHA_VANTAGE_API_KEY = "00CW7K75N41619P7"  # 🔹 Replace this with your actual API key
 
 # ✅ Set Prediction API URL (Replace with your deployed API URL)
-API_URL = "https://crypto-price-predictor-production.up.railway.app/predict/"
+API_URL = "https://crypto-price-predictor-production-847c.up.railway.app/predict/"
 
 # Function to fetch available cryptocurrencies dynamically
 def get_supported_cryptos():
