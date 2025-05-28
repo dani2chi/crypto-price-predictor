@@ -1,0 +1,9 @@
+requests
+pandas
+yfinance
+schedule
+fastapi
+uvicorn
+numpy
+scikit-learn
+plotly
